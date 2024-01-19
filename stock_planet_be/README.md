@@ -1,5 +1,5 @@
 
-# Nodejs FES Template
+# Nodejs Stock Planet Backend Server
 
 # Environment vars
 This project uses the following environment variables:
